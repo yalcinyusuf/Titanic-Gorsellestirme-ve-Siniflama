@@ -11,7 +11,6 @@ Original file is located at
 ---
 
 
-[<img align="right" width="100" height="100" src="http://www.i2symbol.com/images/symbols/style-letters/circled_latin_capital_letter_a_u24B6_icon_128x128.png">](https://www.ayyucekizrak.com/)
 
 **Colab** için kimlik doğrulama admlarını gerçekleştirme...
 """
